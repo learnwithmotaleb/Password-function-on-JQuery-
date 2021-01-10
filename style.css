@@ -1,0 +1,38 @@
+.nil{
+  
+    color: red;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 10px;
+
+    padding: 10px;
+}
+.div-pass{
+    text-align: center;
+    padding: 50px;
+    position: relative;
+}
+#pass1{
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 1rem;
+    padding: 10px;
+}
+#pass2{
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 1rem;
+    padding: 10px;
+}
+.div-pass #loginbutton{
+    background-color:green;
+    color: rgb(247, 239, 239);
+    padding: 5px;
+    width: 205px;
+    font-size:1rem;
+    font-weight: bold;
+    border: none;
+    text-shadow: 1px 2px black;
+    border-radius: 5px;
+}
